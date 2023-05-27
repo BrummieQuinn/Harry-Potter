@@ -3,7 +3,7 @@
 The purpose of this project was to recreate a Harry Potter Website using CSS Flexbox and what we had been taught.
 
 The class was given a pdf with a image of how the website should turn out with various intructions.
-
+***
 These were as follows.
 
 * The banner image is a background (applied via CSS).
@@ -20,8 +20,8 @@ These were as follows.
 This would be 2 <div> inside a container <div> - flex was used.
 
 * Repeat
-
-*memo* We were told we would learn how to make it more responsive going forward.
+***
+**Note:** We were told we would learn how to make it more responsive going forward.
 This is something I intend to add once learned.
 
 I also added the lighthouse report for the site, and I'm quite happy with the result.
