@@ -1,0 +1,111 @@
+body {
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+}
+
+
+ .container {
+    
+    display: flex;
+    flex-flow: column wrap;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 0%);
+}
+
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-image: url("harry-potter-images/banner.jpeg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+
+h1 {
+    outline: 10px ridge hsl(51, 100%, 50%);
+    
+
+}
+
+nav {
+    width: 100vw;
+    height: 25px;
+    margin: 0; 
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+    font-weight: bolder;
+        
+}
+
+nav ul li {
+    list-style: none;
+
+}
+
+h2  {
+    display: flex;
+    justify-content: center;
+}
+
+.container-top,
+.container-middle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+    
+
+}
+
+.container-top img {
+    outline: 5px inset hsl(51, 100%, 50%);
+    max-width: 25em;
+    
+}
+
+p::first-line {
+    font-weight: bolder;
+}
+
+
+h3 {
+    font-weight: bolder;
+}
+
+.container-middle img {
+    outline: 5px ridge hsl(51, 100%, 50%);
+    max-width: 25em;
+}
+.container-bottom {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container-bottom img {
+    outline: 5px ridge hsl(51, 100%, 50%);
+    max-width: 25em;
+}
+
+footer {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
