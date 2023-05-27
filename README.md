@@ -3,7 +3,9 @@
 The purpose of this project was to recreate a Harry Potter Website using CSS Flexbox and what we had been taught.
 
 The class was given a pdf with a image of how the website should turn out with various intructions.
+
 ***
+
 These were as follows.
 
 * The banner image is a background (applied via CSS).
@@ -20,8 +22,10 @@ These were as follows.
 This would be 2 ```<div>``` inside a container ```<div>``` - flex was used.
 
 * Repeat
+    
 ***
-**Note:** We were told we would learn how to make it more responsive going forward.
+
+    **Note:** We were told we would learn how to make it more responsive going forward.
 This is something I intend to add once learned.
 
 I also added the lighthouse report for the site, and I'm quite happy with the result.
@@ -33,8 +37,9 @@ However after having an extra session with my mentor I was able to see what my p
 1.  My Approach:
     I was all over the place, making changes to one element and when I couldn't get it to adjust anymore, I would just move onto the next element I fancied trying to style.
 My mentor taught me how to change my approach for the better.
+    
 I needed to take the document from top to bottom and split screen my html document and CSS style sheet.
-Starting from the <body> element, I worked my way down the document, I didn't move onto new elements until I had applied all the styles I could to it.
+Starting from the ```<body>``` element, I worked my way down the document, I didn't move onto new elements until I had applied all the styles I could to it.
 
 2. My Focus:
    Again I was focused too much on trying to manipulating the containers and I was also forgetting to manipulate the box model for each element
