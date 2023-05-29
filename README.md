@@ -43,7 +43,7 @@ Starting from the ```<body>``` element, I worked my way down the document, I did
     
    Again I was focused too much on trying to manipulating the containers and I was also forgetting to manipulate the box model for each element
    In short my view was too wide and I needed to narrow it.
-Again my mentor was the one who helped me see this and reign my focus back to all of the element I was manipulating e.g, content, padding, marging, border.
+Again my mentor was the one who helped me see this and reign my focus back to all of the element I was manipulating e.g, content, padding, margin, border.
 
 Once I was able to do this, I found the task straightforward, with alot less frustration and a more formulaic method. 
 
