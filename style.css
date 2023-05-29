@@ -74,7 +74,7 @@ h2  {
 }
 
 .container-top img {
-    outline: 5px inset hsl(51, 100%, 50%);
+    outline: 5px ridge hsl(51, 100%, 50%);
     max-width: 25em;
     
 }
