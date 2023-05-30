@@ -48,3 +48,5 @@ Again my mentor was the one who helped me see this and reign my focus back to al
 Once I was able to do this, I found the task straightforward, with alot less frustration and a more formulaic method. 
 
 I also added the lighthouse report for the site, I'm quite happy with the result.
+    
+I also look forward to increasing its responsiveness.
